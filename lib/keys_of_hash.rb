@@ -4,7 +4,7 @@ class Hash
     :Panama => [],
     :Madagascar => ["red-footed tortoise"],
     :Australia => ["aye-aye", "tomato frog"],
-    ["sugar glider", "kangaroo", "koala"]
+    Australia["sugar glider", "kangaroo", "koala"]
     }
   end
   
