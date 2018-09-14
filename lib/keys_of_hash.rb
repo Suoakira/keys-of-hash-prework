@@ -3,7 +3,7 @@ class Hash
     animal = {
     :Panama => [],
     :Madagascar => ["red-footed tortoise"],
-    ["aye-aye", "tomato frog"]
+    :Australia => ["aye-aye", "tomato frog"],
     ["sugar glider", "kangaroo", "koala"]
     }
   end
