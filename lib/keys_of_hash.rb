@@ -1,9 +1,7 @@
 class Hash
   def keys_of(arguments)
     animal = {
-    :Panama => ["red-footed tortoise"],
-    :Madagascar=> ["aye-aye", "tomato frog"],
-    :Australia => ["sugar glider", "kangaroo", "koala"]
+    :arguments => ["red-footed tortoise"],
     }
   end
   
